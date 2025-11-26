@@ -1,0 +1,196 @@
+{
+  "welcome": {
+    "message": "Hi, my name is Dillan Khurana. I am a fourth year Computer Science and Math student at UVA with industry experience at Amazon Web Services, Alarm.com, and 10Pearls. I work as a full stack engineer and a machine learning researcher focused on Looped Transformers and multimodal audio models. This is my portfolio project. I hope you like it. Type 'help' any time for commands. My dog Lucy will guide you if you get stuck.",
+    "profile_img": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/profile.jpg"
+  },
+
+  "projects": [
+    {
+      "id": "dillagent",
+      "status": "active",
+      "name": "DillAgent",
+      "description": "Agentic AI framework for building production ready workflows on top of any LLM.",
+      "technologies": ["Python", "Pydantic", "OpenAI", "FastAPI"],
+      "features": [
+        "Abstractions for LLMs, tools, agents, and executors",
+        "Support for RAG, tool use, and multi step planning",
+        "Signal based workflow system for complex agents"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/dillagent"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/dillagent-splash.png"
+    },
+    {
+      "id": "demon-time",
+      "status": "active",
+      "name": "Demon Time",
+      "description": "Interview prep platform with roadmaps, spaced repetition, and daily scheduling.",
+      "technologies": ["React", "TypeScript", "FastAPI", "PostgreSQL", "SQLAlchemy", "Docker"],
+      "features": [
+        "Roadmap based prep plans",
+        "Spaced repetition scheduler",
+        "Full Docker and Nginx deployment on EC2 with CloudFront"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/demon-time"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/demontime-splash.png"
+    },
+    {
+      "id": "sound-sift",
+      "status": "active",
+      "name": "Sound Sift",
+      "description": "Desktop app for music producers to search samples with audio and text embeddings.",
+      "technologies": ["Electron", "Svelte", "TypeScript", "CLAP", "Hugging Face"],
+      "features": [
+        "Indexes local sample libraries with embeddings",
+        "Search by audio or text",
+        "Local embedding storage for fast private lookup"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/sound-sift"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/soundsift-splash.png"
+    },
+    {
+      "id": "gig-grid",
+      "status": "active",
+      "name": "Gig Grid",
+      "description": "Band management app for rehearsals, setlists, and practice streaks.",
+      "technologies": ["React Native", "Expo", "Node.js", "Prisma", "PlanetScale", "Spotify API"],
+      "features": [
+        "Shared practice streaks and leaderboards",
+        "Integrated Spotify reference tracks",
+        "Cloud backend with real time updates"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/gig-grid"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/giggrid-splash.png"
+    },
+    {
+      "id": "fruit-freshness",
+      "status": "active",
+      "name": "Fruit Freshness Classifier",
+      "description": "CNN model that predicts fresh or rotten produce in UVA dining halls.",
+      "technologies": ["Python", "PyTorch", "Pandas", "NumPy", "Matplotlib"],
+      "features": [
+        "CNN trained on labeled produce images",
+        "Evaluated with accuracy, precision, recall, and F1",
+        "Project focused on improving food quality at UVA"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/fruit-freshness"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/fruitfreshness-splash.png"
+    },
+    {
+      "id": "ctrl-phi",
+      "status": "in-progress",
+      "name": "CtrlPhi",
+      "description": "Reinforcement learning and control playground for reproducing classic algorithms.",
+      "technologies": ["Python", "NumPy", "Matplotlib", "Gymnasium"],
+      "features": [
+        "Implements bandits, gridworlds, and TD control",
+        "Reproduces key figures from Sutton and Barto",
+        "Built for teaching and experimentation"
+      ],
+      "links": {
+        "github": "https://github.com/yourusername/ctrlphi"
+      },
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/ctrlphi-splash.png"
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "aws",
+      "pid": 4821,
+      "company": "Amazon Web Services",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/amazon-logo.png",
+      "role": "Software Development Engineer Intern",
+      "location": "Arlington, VA",
+      "duration": "Summer 2025",
+      "startDate": "2025-06",
+      "isActive": true,
+      "description": "Worked on Amazon Q and tooling for build notifications and developer workflows.",
+      "achievements": [
+        "Built an MCP server for Amazon Q CLI",
+        "Created React and Python dashboard for regional build alerts",
+        "Reduced engineering overhead by automating repetitive checks"
+      ],
+      "technologies": ["Python", "TypeScript", "React", "PostgreSQL", "Docker", "AWS"]
+    },
+    {
+      "id": "alarm-com",
+      "pid": 3104,
+      "company": "Alarm.com",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/alarm.com-logo.png",
+      "role": "Video AI Intern",
+      "location": "Vienna, VA",
+      "duration": "Summer 2024",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "isActive": false,
+      "description": "Evaluated multimodal LLM generated deterrent messages for smart cameras.",
+      "achievements": [
+        "Designed cosine similarity scoring algorithm",
+        "Built Azure pipeline for data collection and labeling",
+        "Integrated system with quality engineering tools"
+      ],
+      "technologies": ["C#", "ASP.NET", "Azure", "Python"]
+    },
+    {
+      "id": "10pearls",
+      "pid": 2847,
+      "company": "10Pearls",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/10pearls-logo.png",
+      "role": "Software Engineering Intern",
+      "location": "Arlington, VA",
+      "duration": "Summer 2023",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "isActive": false,
+      "description": "Developed tools for pharma clients to track high risk statements from opinion leaders.",
+      "achievements": [
+        "Fine tuned models for sentiment and stance detection",
+        "Built React and FastAPI dashboard backed by MySQL",
+        "Containerized and deployed with Docker"
+      ],
+      "technologies": ["React", "FastAPI", "Python", "MySQL", "Docker"]
+    }
+  ],
+
+  "research": [
+    {
+      "id": "looped-transformers",
+      "title": "Exploring Chain of Thought and In-Context Learning in Looped Transformers",
+      "authors": ["Dillan Khurana"],
+      "abstract": "Research project studying how looped Transformer architectures can emulate multi step reasoning and in context gradient like learning.",
+      "publication": "UVA CS 4980 Capstone Research",
+      "findings": [
+        "Implemented GPT2 style model and trained on sequence data",
+        "Explored effects of repeated hidden state passes on reasoning",
+        "Connected results to questions about generative AI in education"
+      ],
+      "pdfLink": "",
+      "image": null
+    }
+  ],
+
+  "articles": [],
+
+  "contact": {
+    "email": "",
+    "social": {
+      "github": "github.com/buzzoo123",
+      "linkedin": "linkedin.com/in/dillan-khurana",
+      "twitter": ""
+    }
+  },
+
+  "resume": {
+    "pdfUrl": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/resume.pdf"
+  }
+}
