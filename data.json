@@ -1,7 +1,7 @@
 {
   "welcome": {
     "message": "Hi, my name is Dillan Khurana. I am a fourth year Computer Science and Math student at UVA with industry experience at Amazon Web Services, Alarm.com, and 10Pearls. I work as a full stack engineer and a machine learning researcher focused on Looped Transformers and multimodal audio models. This is my portfolio project. I hope you like it. Type 'help' any time for commands. My dog Lucy will guide you if you get stuck.",
-    "profile_img": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/profile.jpg"
+    "profile_img": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/profile.jpg"
   },
 
   "projects": [
@@ -19,7 +19,7 @@
       "links": {
         "github": "https://github.com/yourusername/dillagent"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/dillagent-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/dillagent-splash.png"
     },
     {
       "id": "demon-time",
@@ -35,7 +35,7 @@
       "links": {
         "github": "https://github.com/yourusername/demon-time"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/demontime-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/demontime-splash.png"
     },
     {
       "id": "sound-sift",
@@ -51,7 +51,7 @@
       "links": {
         "github": "https://github.com/yourusername/sound-sift"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/soundsift-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/soundsift-splash.png"
     },
     {
       "id": "gig-grid",
@@ -67,7 +67,7 @@
       "links": {
         "github": "https://github.com/yourusername/gig-grid"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/giggrid-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/giggrid-splash.png"
     },
     {
       "id": "fruit-freshness",
@@ -83,7 +83,7 @@
       "links": {
         "github": "https://github.com/yourusername/fruit-freshness"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/fruitfreshness-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/fruitfreshness-splash.png"
     },
     {
       "id": "ctrl-phi",
@@ -99,7 +99,7 @@
       "links": {
         "github": "https://github.com/yourusername/ctrlphi"
       },
-      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/projects/ctrlphi-splash.png"
+      "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/ctrlphi-splash.png"
     }
   ],
 
@@ -108,7 +108,7 @@
       "id": "aws",
       "pid": 4821,
       "company": "Amazon Web Services",
-      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/amazon-logo.png",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/companies/amazon-logo.png",
       "role": "Software Development Engineer Intern",
       "location": "Arlington, VA",
       "duration": "Summer 2025",
@@ -126,7 +126,7 @@
       "id": "alarm-com",
       "pid": 3104,
       "company": "Alarm.com",
-      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/alarm.com-logo.png",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/companies/alarm.com-logo.png",
       "role": "Video AI Intern",
       "location": "Vienna, VA",
       "duration": "Summer 2024",
@@ -145,7 +145,7 @@
       "id": "10pearls",
       "pid": 2847,
       "company": "10Pearls",
-      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/companies/10pearls-logo.png",
+      "companyLogo": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/companies/10pearls-logo.png",
       "role": "Software Engineering Intern",
       "location": "Arlington, VA",
       "duration": "Summer 2023",
@@ -191,6 +191,6 @@
   },
 
   "resume": {
-    "pdfUrl": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/assets/images/resume.pdf"
+    "pdfUrl": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/resume.pdf"
   }
 }
