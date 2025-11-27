@@ -1,7 +1,7 @@
 {
   "welcome": {
     "message": "Hi, my name is Dillan Khurana. I am a fourth year Computer Science and Math student at UVA with industry experience at Amazon Web Services, Alarm.com, and 10Pearls. I work as a full stack engineer and a machine learning researcher focused on Looped Transformers and multimodal audio models. This is my portfolio project. I hope you like it. Type 'help' any time for commands. My dog Lucy will guide you if you get stuck.",
-    "profile_img": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/profile.jpg"
+    "profile_img": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/profile.png"
   },
 
   "projects": [
