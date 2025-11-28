@@ -17,7 +17,7 @@
         "Signal based workflow system for complex agents"
       ],
       "links": {
-        "github": "https://github.com/yourusername/dillagent"
+        "github": "https://github.com/buzzoo123/dillagent"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/dillagent-splash.png"
     },
@@ -33,7 +33,7 @@
         "Full Docker and Nginx deployment on EC2 with CloudFront"
       ],
       "links": {
-        "github": "https://github.com/yourusername/demon-time"
+        "github": "https://github.com/buzzoo123/demon-time"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/demontime-splash.png"
     },
@@ -49,7 +49,7 @@
         "Local embedding storage for fast private lookup"
       ],
       "links": {
-        "github": "https://github.com/yourusername/sound-sift"
+        "github": "https://github.com/buzzoo123/sound-sift"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/soundsift-splash.png"
     },
@@ -65,7 +65,7 @@
         "Cloud backend with real time updates"
       ],
       "links": {
-        "github": "https://github.com/yourusername/gig-grid"
+        "github": "https://github.com/buzzoo123/gig-grid"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/giggrid-splash.png"
     },
@@ -81,7 +81,7 @@
         "Project focused on improving food quality at UVA"
       ],
       "links": {
-        "github": "https://github.com/yourusername/fruit-freshness"
+        "github": "https://github.com/buzzoo123/fruit-freshness"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/fruitfreshness-splash.png"
     },
@@ -97,7 +97,7 @@
         "Built for teaching and experimentation"
       ],
       "links": {
-        "github": "https://github.com/yourusername/ctrlphi"
+        "github": "https://github.com/buzzoo123/ctrlphi"
       },
       "image": "https://raw.githubusercontent.com/buzzoo123/terminal-portfolio-content/main/assets/images/projects/ctrlphi-splash.png"
     }
